@@ -6,6 +6,10 @@
 
 #### Achievements
 
+- 2024/3/18
+    - (backend) Refactor DevicesRoutes.ts to improve code organization and add HttpStreamDriver for process retrieval
+    - (react-app) Refactor import order and fix data parsing in DeviceTasksManager.tsx
+
 - **Enhanced Beacon Payload:**
   - Implemented improvements to the Beacon payload for more efficient and secure covert communication.
   - Enhanced stability and reliability of the communication channel between attacker and target systems.
