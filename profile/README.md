@@ -5,6 +5,8 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Achievements
+- 2024/4/19
+    - Added isOnline method to Devices class
 
 - 2024/3/18
     - (backend) Refactor DevicesRoutes.ts to improve code organization and add HttpStreamDriver for process retrieval
