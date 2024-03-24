@@ -5,6 +5,9 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Achievements
+- 2024/4/24
+    - Update dependencies and fix imports
+
 - 2024/4/19
     - Added isOnline method to Devices class
 
