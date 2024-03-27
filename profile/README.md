@@ -5,6 +5,9 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Achievements
+- 2024/4/27
+    - Update build endpoint and create build with target and architecture
+
 - 2024/4/24
     - Update dependencies and fix imports
 
