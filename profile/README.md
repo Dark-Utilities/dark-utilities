@@ -5,6 +5,9 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Achievements
+- 2024/4/28
+    - Add API key management endpoints
+
 - 2024/4/27
     - Update build endpoint and create build with target and architecture
 
