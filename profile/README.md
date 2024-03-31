@@ -5,20 +5,23 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Achievements
+- 2024/4/1
+    - Refactor MinerManagerForm component
+
 - 2024/4/30
     - Fix API response in BuildsRoutes and add success message in UsersRoutes
     - Add admin pages and update notifications badge
 
-- 2024/4/28
+- 2024/3/28
     - Add API key management endpoints
 
-- 2024/4/27
+- 2024/3/27
     - Update build endpoint and create build with target and architecture
 
-- 2024/4/24
+- 2024/3/24
     - Update dependencies and fix imports
 
-- 2024/4/19
+- 2024/3/19
     - Added isOnline method to Devices class
 
 - 2024/3/18
