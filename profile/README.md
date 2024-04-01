@@ -7,6 +7,7 @@
     - Add delete ticket functionality and notifications
     - Add aliases for services and update imports
     - Refactor MinerManagerForm component
+    - Add loader and stop loader after login
 
 - 2024/4/30
     - Fix API response in BuildsRoutes and add success message in UsersRoutes
