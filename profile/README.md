@@ -1,10 +1,11 @@
 # Project Updates
 
-## March 2024 Updates
-
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
-#### Achievements
+#### Updates
+- 2024/4/1
+    - Add aliases for services and update imports
+
 - 2024/4/1
     - Refactor MinerManagerForm component
 
