@@ -4,9 +4,8 @@
 
 #### Updates
 - 2024/4/1
+    - Add delete ticket functionality and notifications
     - Add aliases for services and update imports
-
-- 2024/4/1
     - Refactor MinerManagerForm component
 
 - 2024/4/30
