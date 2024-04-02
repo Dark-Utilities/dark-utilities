@@ -3,6 +3,10 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/4/2
+    - Update bun.lockb file
+    - Remove unused code and dependencies
+
 - 2024/4/1
     - Add delete ticket functionality and notifications
     - Add aliases for services and update imports
