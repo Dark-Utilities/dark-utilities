@@ -4,6 +4,7 @@
 
 #### Updates
 - 2024/4/2
+    - Fix file reading bug and handle non-existent files
     - Add getFile and writeFile classes for file manipulation
     - Update bun.lockb file
     - Remove unused code and dependencies
