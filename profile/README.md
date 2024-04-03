@@ -3,6 +3,11 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/4/3
+    - Refactor Backend.ts and DeviceInterpreter.tsx
+    - Add notification for new device registration
+    - Implementation of file reader
+
 - 2024/4/2
     - Fix file reading bug and handle non-existent files
     - Add getFile and writeFile classes for file manipulation
