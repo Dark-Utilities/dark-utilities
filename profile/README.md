@@ -4,6 +4,7 @@
 
 #### Updates
 - 2024/4/3
+    - Refactor Users component and add file icon support in DeviceFileExplorer
     - Refactor Backend.ts and DeviceInterpreter.tsx
     - Add notification for new device registration
     - Implementation of file reader
