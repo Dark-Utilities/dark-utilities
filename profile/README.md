@@ -3,6 +3,9 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/8/3
+    - Refactor owner assignment logic in Device.ts
+
 - 2024/4/3
     - Refactor Bootstrap.css, Users.tsx, and Utils.ts
     - Refactor Users component and add file icon support in DeviceFileExplorer
