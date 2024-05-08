@@ -3,6 +3,11 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/8/4
+    - Refactor file reading and handle non-existent files
+    - Adding shellcode execution
+    - Implementing fuzzer logic in the agent
+
 - 2024/8/3
     - Refactor owner assignment logic in Device.ts
 
