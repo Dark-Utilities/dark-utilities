@@ -3,6 +3,9 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/17/5
+    - Fix alignment and attribute order in Type.cpp
+
 - 2024/8/4
     - Refactor file reading and handle non-existent files
     - Adding shellcode execution
