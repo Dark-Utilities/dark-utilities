@@ -3,6 +3,10 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/08/09
+    - Update @prisma/client to version 5.19.1
+    - Refactor import statements and update components
+
 - 2024/17/5
     - Fix alignment and attribute order in Type.cpp
 
