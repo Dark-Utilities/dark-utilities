@@ -3,6 +3,11 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/11/09
+    - Refactor User.exists method to use publicKey instead of privateKey
+    - Hashing the privateKey in client side so the server never know the private key
+    - Implementing PKLM system
+
 - 2024/08/09
     - Update @prisma/client to version 5.19.1
     - Refactor import statements and update components
