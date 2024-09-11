@@ -7,6 +7,7 @@
     - Refactor User.exists method to use publicKey instead of privateKey
     - Hashing the privateKey in client side so the server never know the private key
     - Implementing PKLM system
+    - Refactor User model to use publicKey instead of privateKey
 
 - 2024/08/09
     - Update @prisma/client to version 5.19.1
