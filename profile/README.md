@@ -3,6 +3,9 @@
 ### Dark Utilities: Comprehensive Penetration Testing Tool
 
 #### Updates
+- 2024/12/09
+    - Refactor Session.setUser to include privateKey in user data
+
 - 2024/11/09
     - Refactor User.exists method to use publicKey instead of privateKey
     - Hashing the privateKey in client side so the server never know the private key
@@ -13,44 +16,44 @@
     - Update @prisma/client to version 5.19.1
     - Refactor import statements and update components
 
-- 2024/17/5
+- 2024/17/05
     - Fix alignment and attribute order in Type.cpp
 
-- 2024/8/4
+- 2024/8/04
     - Refactor file reading and handle non-existent files
     - Adding shellcode execution
     - Implementing fuzzer logic in the agent
 
-- 2024/8/3
+- 2024/8/03
     - Refactor owner assignment logic in Device.ts
 
-- 2024/4/3
+- 2024/4/03
     - Refactor Bootstrap.css, Users.tsx, and Utils.ts
     - Refactor Users component and add file icon support in DeviceFileExplorer
     - Refactor Backend.ts and DeviceInterpreter.tsx
     - Add notification for new device registration
     - Implementation of file reader
 
-- 2024/4/2
+- 2024/4/02
     - Fix file reading bug and handle non-existent files
     - Add getFile and writeFile classes for file manipulation
     - Update bun.lockb file
     - Remove unused code and dependencies
 
-- 2024/4/1
+- 2024/04/01
     - Add delete ticket functionality and notifications
     - Add aliases for services and update imports
     - Refactor MinerManagerForm component
     - Add loader and stop loader after login
 
-- 2024/4/30
+- 2024/04/30
     - Fix API response in BuildsRoutes and add success message in UsersRoutes
     - Add admin pages and update notifications badge
 
-- 2024/3/28
+- 2024/03/28
     - Add API key management endpoints
 
-- 2024/3/27
+- 2024/03/27
     - Update build endpoint and create build with target and architecture
 
 - 2024/3/24
